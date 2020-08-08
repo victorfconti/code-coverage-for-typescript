@@ -1,0 +1,16 @@
+{
+  "name": "code_coverage_ts",
+  "version": "1.0.0",
+  "description": "Only a code coverage test for typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Victor Fernando Conti",
+  "license": "ISC"
+}
