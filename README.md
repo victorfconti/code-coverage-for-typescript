@@ -6,6 +6,7 @@
 [![Actions Status](https://github.com/victorfconti/code-coverage-for-typescript/workflows/TsLint/badge.svg)](https://github.com/{owner}/{repo}/actions)
 [![dependencies Status](https://david-dm.org/victorfconti/code-coverage-for-typescript/status.svg)](https://david-dm.org/victorfconti/code-coverage-for-typescript)
 [![devDependencies Status](https://david-dm.org/victorfconti/code-coverage-for-typescript/dev-status.svg)](https://david-dm.org/victorfconti/code-coverage-for-typescript?type=dev)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://https://github.com/victorfconti/code-coverage-for-typescript/blob/master/LICENSE)
 
 # Code coverage study for node with typescript
 
