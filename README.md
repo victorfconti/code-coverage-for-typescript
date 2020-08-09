@@ -4,7 +4,8 @@
 [![Actions Status](https://github.com/victorfconti/code-coverage-for-typescript/workflows/Node%20CI/badge.svg)](https://github.com/{owner}/{repo}/actions)
 [![Actions Status](https://github.com/victorfconti/code-coverage-for-typescript/workflows/Sonarcloud/badge.svg)](https://github.com/{owner}/{repo}/actions)
 [![Actions Status](https://github.com/victorfconti/code-coverage-for-typescript/workflows/TsLint/badge.svg)](https://github.com/{owner}/{repo}/actions)
-
+[![dependencies Status](https://david-dm.org/victorfconti/code-coverage-for-typescript/status.svg)](https://david-dm.org/victorfconti/code-coverage-for-typescript)
+[![devDependencies Status](https://david-dm.org/victorfconti/code-coverage-for-typescript/dev-status.svg)](https://david-dm.org/victorfconti/code-coverage-for-typescript?type=dev)
 
 # Code coverage study for node with typescript
 
